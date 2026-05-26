@@ -1,0 +1,12 @@
+# Instagram export files
+*.html
+*.zip
+*.png
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+myenv/
+venv/
+.env/
