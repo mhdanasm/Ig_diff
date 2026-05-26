@@ -95,7 +95,7 @@ Example:
 
 ```text
 project/
-├── compare_insta.py
+├── diff.py
 ├── requirements.txt
 ├── followers_1.html
 └── following.html
