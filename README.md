@@ -69,13 +69,13 @@ connections/
 Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mhdanasm/Ig_diff.git
 ```
 
 Move into the project folder:
 
 ```bash
-cd <repo-folder>
+cd ig_diff
 ```
 
 ---
