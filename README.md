@@ -108,13 +108,13 @@ project/
 Run:
 
 ```bash
-python compare_insta.py
+python diff.py
 ```
 
 or on some Linux systems:
 
 ```bash
-python3 compare_insta.py
+python3 diff.py
 ```
 
 ---
